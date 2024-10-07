@@ -1,28 +1,17 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="ThankYou.aspx.cs" Inherits="AbhishekChachad_BookStore.ThankYou" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="ThankYou.aspx.cs" MasterPageFile="~/Site.Master" Inherits="AbhishekChachad_BookStore.ThankYou" %>
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head runat="server">
-    <meta charset="utf-8" />
-    <title>ThankYou Page</title>
-    <link href="Content/bootstrap.min.css" rel="stylesheet" />
-    <link href="Content/style.css" rel="stylesheet" />
-    <script src="Scripts/jquery-1.9.1.min.js"></script>
-    <script src="Scripts/bootstrap.min.js"></script>
-</head>
-<body>
-    <nav class="navbar navbar-default">
-        <!-- Navbar code unchanged -->
-    </nav>
 
+<asp:Content ID="Content1" ContentPlaceHolderID="headPlaceHolder" runat="server">
+    <title>Thank You Page</title>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <form id="form1" runat="server">
         <div class="container text-center">
-            <header class="jumbotron text-center"><h1>Thank You for Shopping</h1></header>
+            <header class="jumbotron text-center">
+                <h1>Thank You for Shopping</h1>
+            </header>
             <asp:LinkButton runat="server" PostBackUrl="~/Default.aspx">Go to Home page</asp:LinkButton>
         </div>
     </form>
-
-
-</body>
-</html>
+</asp:Content>

@@ -1,5 +1,5 @@
 ﻿/* The styles for the elements */
-body {
+/*body {
     font-family: Arial, Arial, Helvetica, sans-serif;
     font-size: 85%;
     width: 550px;
@@ -16,10 +16,10 @@ h1 {
 label {
     float: left;
     width: 10em;
-}
+}*/
 
 /* The styles for the classes */
-.entry {
+/*.entry {
     margin-left: 1em;
     margin-bottom: .5em;
     width: 10em;
@@ -32,10 +32,10 @@ label {
 .button {
     margin-top: 1em;
     width: 10em;
-}
+}*/
 
 /* The styles for the server controls */
-#ddlMonthlyInvestment {
+/*#ddlMonthlyInvestment {
     width: 10em;
 }
 #lblFutureValue {
@@ -44,4 +44,4 @@ label {
 }
 #btnClear {
     margin-left: 1em;
-}
+}*/

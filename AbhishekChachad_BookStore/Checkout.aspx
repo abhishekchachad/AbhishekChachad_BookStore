@@ -1,43 +1,10 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Checkout.aspx.cs" Inherits="AbhishekChachad_BookStore.Checkout" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Checkout.aspx.cs" MasterPageFile="~/Site.Master" Inherits="AbhishekChachad_BookStore.Checkout" %>
 
-<!DOCTYPE html>
-<html lang="en">
-<head runat="server">
-    <meta charset="utf-8" />
+<asp:Content ID="Content1" ContentPlaceHolderID="headPlaceHolder" runat="server">
     <title>Check Out Page</title>
-    <link href="Content/bootstrap.min.css" rel="stylesheet" />
-    <link href="Content/style.css" rel="stylesheet" />
-    <script src="BootStrap/jquery-1.9.1.min.js"></script>
-    <script src="BootStrap/bootstrap.min.js"></script>
-    <link href="Content/bootstrap.css" rel="stylesheet" />
-</head>
-<body>
-    <nav class="navbar navbar-default">
-        <div class="container-fluid">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" href="#">
-                    <img src="Images/Logo.png" width="90" />
-                </a>
-            </div>
+</asp:Content>
 
-            <!-- Navbar links -->
-            <div class="collapse navbar-collapse" id="navbar-collapse">
-                <ul class="nav navbar-nav">
-                    <li class="active"><a href="#">Home</a></li>
-                    <li><a href="Products.aspx">Products</a></li>
-                    <li><a href="Cart.aspx">Cart</a></li>
-                    <li><a href="Login.aspx">Login</a></li>
-                </ul>
-            </div>
-        </div>
-    </nav>
-
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <form id="form1" runat="server">
         <div class="container mt-5">
             <h1>Check Out Form</h1>
@@ -159,14 +126,14 @@
             let errorList = '';
 
             const email = document.getElementById('<%= EmailTextBox.ClientID %>').value;
-                const emailReentry = document.getElementById('<%= EmailReEntryTextBox.ClientID %>').value;
-                const firstName = document.getElementById('<%= FirstNameTextBox.ClientID %>').value;
-                const lastName = document.getElementById('<%= LastNameTextBox.ClientID %>').value;
-                const phone = document.getElementById('<%= PhoneNumberTextBox.ClientID %>').value;
-                const address = document.getElementById('<%= AddressTextBox.ClientID %>').value;
-                const city = document.getElementById('<%= CityTextBox.ClientID %>').value;
-                const state = document.getElementById('<%= StateDropDown.ClientID %>').value;
-                const zip = document.getElementById('<%= ZipCodeTextBox.ClientID %>').value;
+            const emailReentry = document.getElementById('<%= EmailReEntryTextBox.ClientID %>').value;
+            const firstName = document.getElementById('<%= FirstNameTextBox.ClientID %>').value;
+            const lastName = document.getElementById('<%= LastNameTextBox.ClientID %>').value;
+            const phone = document.getElementById('<%= PhoneNumberTextBox.ClientID %>').value;
+            const address = document.getElementById('<%= AddressTextBox.ClientID %>').value;
+            const city = document.getElementById('<%= CityTextBox.ClientID %>').value;
+            const state = document.getElementById('<%= StateDropDown.ClientID %>').value;
+            const zip = document.getElementById('<%= ZipCodeTextBox.ClientID %>').value;
 
             // Email validation
             const emailPattern = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
@@ -226,5 +193,4 @@
         }
         </script>
 
-</body>
-</html>
+</asp:Content>
