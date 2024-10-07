@@ -3,3 +3,12 @@
 packages/
 /.vs
 /.vs/AbhishekChachad_BookStore/v17
+.vs/AbhishekChachad_BookStore/v17/.suo
+.vs/AbhishekChachad_BookStore/v17/DocumentLayout.backup.json
+.vs/AbhishekChachad_BookStore/v17/DocumentLayout.json
+AbhishekChachad_BookStore/App_Data/AbhishekChachad_BookStore.mdf
+AbhishekChachad_BookStore/App_Data/AbhishekChachad_BookStore_log.ldf
+AbhishekChachad_BookStore/bin/AbhishekChachad_BookStore.dll
+AbhishekChachad_BookStore/bin/AbhishekChachad_BookStore.pdb
+AbhishekChachad_BookStore/obj/Debug/AbhishekChachad_BookStore.dll
+AbhishekChachad_BookStore/obj/Debug/AbhishekChachad_BookStore.pdb
