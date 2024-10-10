@@ -1,24 +1,8 @@
-﻿
-Footer styles
-.footer-custom {
-    margin-top: 2%;
-    background-color: #343a40;
-    color: white;
-    padding: 20px 0;
-    text-align: center;
-}
-
-.footer-custom a {
-    color: #ffc107;
-}
-
-/* General styles */
-/*body {
+﻿/* General styles */
+body {
     background-color: #f8f9fa;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #333;
-    margin: 0;
-    padding: 0;
 }
 
 .container {
@@ -31,14 +15,19 @@ Footer styles
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
 }
 
-.jumbotron h1, h2, h4 {
+.jumbotron h1 {
     color: #0056b3;
-    text-align: center;
     margin-bottom: 20px;
-}*/
+    text-align: center;
+}
+
+h2, h4 {
+    color: #0056b3;
+    margin-bottom: 20px;
+}
 
 /* Form styles */
-/*.form-group label {
+.form-group label {
     font-weight: bold;
     color: #555;
 }
@@ -47,20 +36,18 @@ Footer styles
     border: 1px solid #ccc;
     border-radius: 4px;
     margin-bottom: 15px;
-    padding: 10px;
 }
 
 .form-text.text-danger {
     color: #dc3545;
     font-size: 0.9rem;
-}*/
+}
 
 /* Button styles */
-/*.btn {
+.btn {
     padding: 10px 20px;
     font-size: 1rem;
     border-radius: 5px;
-    transition: background-color 0.3s ease, border-color 0.3s ease;
 }
 
 .btn-block {
@@ -105,21 +92,21 @@ Footer styles
     .btn-warning:hover {
         background-color: #e0a800;
         border-color: #d39e00;
-    }*/
+    }
 
 /* Checkbox and Radio styles */
-/*.form-check-input {
+.form-check-input {
     margin-top: 0.3rem;
     margin-right: 0.5rem;
 }
 
 .form-check-label {
-    color: #555;
     margin-bottom: 10px;
-}*/
+    color: #555;
+}
 
 /* Additional styles */
-/*small.form-text {
+small.form-text {
     display: block;
     margin-top: -10px;
     margin-bottom: 10px;
@@ -131,41 +118,48 @@ Footer styles
 
 .mr-2 {
     margin-right: 0.5rem;
-}*/
+}
 
 /* Custom link styles */
-/*a {
+a {
     color: #0056b3;
     text-decoration: none;
 }
 
     a:hover {
         text-decoration: underline;
-    }*/
+    }
 
-/* Image styles */
-/*.bookImage {
+.bookImage {
     height: 30vh;
-    object-fit: cover;
-    display: block;
-    margin: auto;
-}*/
-
-/* Navbar styles */
-/*.navbar-custom {
-    background-color: #343a40;
 }
 
-    .navbar-custom .navbar-nav > li > a {
+.footer-custom {
+    margin-top: 2%;
+    background-color: #343a40;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+    .footer-custom a {
         color: #ffc107;
     }
 
+.navbar-custom {
+    background-color: #343a40; /* Navy blue background */
+}
+
+    .navbar-custom .navbar-nav > li > a {
+        color: #ffc107; /* Yellow font color */
+    }
+
         .navbar-custom .navbar-nav > li > a:hover {
-            color: #ffcc00;
-        }*/
+            color: #ffcc00; /* Optional: Lighter yellow on hover */
+        }
 
 /* Media Queries for Responsive Design */
-/*@media (max-width: 768px) {
+@media (max-width: 768px) {
     .container {
         padding: 15px;
     }
@@ -177,4 +171,4 @@ Footer styles
     .mt-4 {
         margin-top: 1.5rem;
     }
-}*/
+}

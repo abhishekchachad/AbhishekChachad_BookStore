@@ -3,36 +3,8 @@
   "WorkspaceRootPath": "D:\\Conestoga College Studies\\Programming with .NET\\Assignments\\Assignment 2\\AbhishekChachad_BookStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A459D540-A4F0-4283-BE58-61745CD04BB6}|AbhishekChachad_BookStore\\AbhishekChachad_BookStore.csproj|d:\\conestoga college studies\\programming with .net\\assignments\\assignment 2\\abhishekchachad_bookstore\\abhishekchachad_bookstore\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{A459D540-A4F0-4283-BE58-61745CD04BB6}|AbhishekChachad_BookStore\\AbhishekChachad_BookStore.csproj|solutionrelative:abhishekchachad_bookstore\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A459D540-A4F0-4283-BE58-61745CD04BB6}|AbhishekChachad_BookStore\\AbhishekChachad_BookStore.csproj|D:\\Conestoga College Studies\\Programming with .NET\\Assignments\\Assignment 2\\AbhishekChachad_BookStore\\abhishekchachad_bookstore\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{A459D540-A4F0-4283-BE58-61745CD04BB6}|AbhishekChachad_BookStore\\AbhishekChachad_BookStore.csproj|solutionrelative:abhishekchachad_bookstore\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A459D540-A4F0-4283-BE58-61745CD04BB6}|AbhishekChachad_BookStore\\AbhishekChachad_BookStore.csproj|d:\\conestoga college studies\\programming with .net\\assignments\\assignment 2\\abhishekchachad_bookstore\\abhishekchachad_bookstore\\content\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A459D540-A4F0-4283-BE58-61745CD04BB6}|AbhishekChachad_BookStore\\AbhishekChachad_BookStore.csproj|solutionrelative:abhishekchachad_bookstore\\content\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A459D540-A4F0-4283-BE58-61745CD04BB6}|AbhishekChachad_BookStore\\AbhishekChachad_BookStore.csproj|d:\\conestoga college studies\\programming with .net\\assignments\\assignment 2\\abhishekchachad_bookstore\\abhishekchachad_bookstore\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{A459D540-A4F0-4283-BE58-61745CD04BB6}|AbhishekChachad_BookStore\\AbhishekChachad_BookStore.csproj|solutionrelative:abhishekchachad_bookstore\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A459D540-A4F0-4283-BE58-61745CD04BB6}|AbhishekChachad_BookStore\\AbhishekChachad_BookStore.csproj|D:\\Conestoga College Studies\\Programming with .NET\\Assignments\\Assignment 2\\AbhishekChachad_BookStore\\abhishekchachad_bookstore\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{A459D540-A4F0-4283-BE58-61745CD04BB6}|AbhishekChachad_BookStore\\AbhishekChachad_BookStore.csproj|solutionrelative:abhishekchachad_bookstore\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A459D540-A4F0-4283-BE58-61745CD04BB6}|AbhishekChachad_BookStore\\AbhishekChachad_BookStore.csproj|d:\\conestoga college studies\\programming with .net\\assignments\\assignment 2\\abhishekchachad_bookstore\\abhishekchachad_bookstore\\content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A459D540-A4F0-4283-BE58-61745CD04BB6}|AbhishekChachad_BookStore\\AbhishekChachad_BookStore.csproj|solutionrelative:abhishekchachad_bookstore\\content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A459D540-A4F0-4283-BE58-61745CD04BB6}|AbhishekChachad_BookStore\\AbhishekChachad_BookStore.csproj|d:\\conestoga college studies\\programming with .net\\assignments\\assignment 2\\abhishekchachad_bookstore\\abhishekchachad_bookstore\\content\\style-old.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A459D540-A4F0-4283-BE58-61745CD04BB6}|AbhishekChachad_BookStore\\AbhishekChachad_BookStore.csproj|solutionrelative:abhishekchachad_bookstore\\content\\style-old.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A459D540-A4F0-4283-BE58-61745CD04BB6}|AbhishekChachad_BookStore\\AbhishekChachad_BookStore.csproj|D:\\Conestoga College Studies\\Programming with .NET\\Assignments\\Assignment 2\\AbhishekChachad_BookStore\\abhishekchachad_bookstore\\models\\cartitemlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A459D540-A4F0-4283-BE58-61745CD04BB6}|AbhishekChachad_BookStore\\AbhishekChachad_BookStore.csproj|solutionrelative:abhishekchachad_bookstore\\models\\cartitemlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,73 +26,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Default.aspx",
-              "DocumentMoniker": "D:\\Conestoga College Studies\\Programming with .NET\\Assignments\\Assignment 2\\AbhishekChachad_BookStore\\AbhishekChachad_BookStore\\Default.aspx",
-              "RelativeDocumentMoniker": "AbhishekChachad_BookStore\\Default.aspx",
-              "ToolTip": "D:\\Conestoga College Studies\\Programming with .NET\\Assignments\\Assignment 2\\AbhishekChachad_BookStore\\AbhishekChachad_BookStore\\Default.aspx",
-              "RelativeToolTip": "AbhishekChachad_BookStore\\Default.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-09-27T01:51:01.53Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Cart.aspx",
-              "DocumentMoniker": "D:\\Conestoga College Studies\\Programming with .NET\\Assignments\\Assignment 2\\AbhishekChachad_BookStore\\AbhishekChachad_BookStore\\Cart.aspx",
-              "RelativeDocumentMoniker": "AbhishekChachad_BookStore\\Cart.aspx",
-              "ToolTip": "D:\\Conestoga College Studies\\Programming with .NET\\Assignments\\Assignment 2\\AbhishekChachad_BookStore\\AbhishekChachad_BookStore\\Cart.aspx",
-              "RelativeToolTip": "AbhishekChachad_BookStore\\Cart.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-10-07T04:32:16.967Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "bootstrap.css",
-              "DocumentMoniker": "D:\\Conestoga College Studies\\Programming with .NET\\Assignments\\Assignment 2\\AbhishekChachad_BookStore\\AbhishekChachad_BookStore\\Content\\bootstrap.css",
-              "RelativeDocumentMoniker": "AbhishekChachad_BookStore\\Content\\bootstrap.css",
-              "ToolTip": "D:\\Conestoga College Studies\\Programming with .NET\\Assignments\\Assignment 2\\AbhishekChachad_BookStore\\AbhishekChachad_BookStore\\Content\\bootstrap.css",
-              "RelativeToolTip": "AbhishekChachad_BookStore\\Content\\bootstrap.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-07T04:36:13.358Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "style-old.css",
-              "DocumentMoniker": "D:\\Conestoga College Studies\\Programming with .NET\\Assignments\\Assignment 2\\AbhishekChachad_BookStore\\AbhishekChachad_BookStore\\Content\\style-old.css",
-              "RelativeDocumentMoniker": "AbhishekChachad_BookStore\\Content\\style-old.css",
-              "ToolTip": "D:\\Conestoga College Studies\\Programming with .NET\\Assignments\\Assignment 2\\AbhishekChachad_BookStore\\AbhishekChachad_BookStore\\Content\\style-old.css",
-              "RelativeToolTip": "AbhishekChachad_BookStore\\Content\\style-old.css",
-              "ViewState": "AgIAAIkAAAAAAAAAAADwv54AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-07T04:31:34.726Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "style.css",
-              "DocumentMoniker": "D:\\Conestoga College Studies\\Programming with .NET\\Assignments\\Assignment 2\\AbhishekChachad_BookStore\\AbhishekChachad_BookStore\\Content\\style.css",
-              "RelativeDocumentMoniker": "AbhishekChachad_BookStore\\Content\\style.css",
-              "ToolTip": "D:\\Conestoga College Studies\\Programming with .NET\\Assignments\\Assignment 2\\AbhishekChachad_BookStore\\AbhishekChachad_BookStore\\Content\\style.css",
-              "RelativeToolTip": "AbhishekChachad_BookStore\\Content\\style.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-07T04:21:36.675Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Site.Master",
               "DocumentMoniker": "D:\\Conestoga College Studies\\Programming with .NET\\Assignments\\Assignment 2\\AbhishekChachad_BookStore\\AbhishekChachad_BookStore\\Site.Master",
               "RelativeDocumentMoniker": "AbhishekChachad_BookStore\\Site.Master",
@@ -128,33 +34,8 @@
               "RelativeToolTip": "AbhishekChachad_BookStore\\Site.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-10-07T04:11:20.612Z",
+              "WhenOpened": "2024-10-10T17:15:58.295Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Login.aspx",
-              "DocumentMoniker": "D:\\Conestoga College Studies\\Programming with .NET\\Assignments\\Assignment 2\\AbhishekChachad_BookStore\\AbhishekChachad_BookStore\\Login.aspx",
-              "RelativeDocumentMoniker": "AbhishekChachad_BookStore\\Login.aspx",
-              "ToolTip": "D:\\Conestoga College Studies\\Programming with .NET\\Assignments\\Assignment 2\\AbhishekChachad_BookStore\\AbhishekChachad_BookStore\\Login.aspx",
-              "RelativeToolTip": "AbhishekChachad_BookStore\\Login.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-10-03T13:16:29.961Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CartItemList.cs",
-              "DocumentMoniker": "D:\\Conestoga College Studies\\Programming with .NET\\Assignments\\Assignment 2\\AbhishekChachad_BookStore\\AbhishekChachad_BookStore\\Models\\CartItemList.cs",
-              "RelativeDocumentMoniker": "AbhishekChachad_BookStore\\Models\\CartItemList.cs",
-              "ToolTip": "D:\\Conestoga College Studies\\Programming with .NET\\Assignments\\Assignment 2\\AbhishekChachad_BookStore\\AbhishekChachad_BookStore\\Models\\CartItemList.cs",
-              "RelativeToolTip": "AbhishekChachad_BookStore\\Models\\CartItemList.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T04:18:58.47Z"
             }
           ]
         }

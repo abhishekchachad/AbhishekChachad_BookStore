@@ -91,6 +91,15 @@
     <Content Include="App_Data\AbhishekChachad_BookStore_log.ldf">
       <DependentUpon>AbhishekChachad_BookStore.mdf</DependentUpon>
     </Content>
+    <Content Include="BootStrap\bootstrap-theme.css" />
+    <Content Include="BootStrap\bootstrap-theme.min.css" />
+    <Content Include="BootStrap\bootstrap.css" />
+    <Content Include="BootStrap\bootstrap.js" />
+    <Content Include="BootStrap\bootstrap.min.css" />
+    <Content Include="BootStrap\bootstrap.min.js" />
+    <Content Include="BootStrap\jquery-1.9.1.min.js" />
+    <Content Include="BootStrap\style-old.css" />
+    <Content Include="BootStrap\style.css" />
     <Content Include="Cart.aspx" />
     <Content Include="Checkout.aspx" />
     <Content Include="Content\bootstrap-theme.css" />
@@ -103,13 +112,17 @@
     <Content Include="Images\Logo.png" />
     <Content Include="Login.aspx" />
     <Content Include="Products.aspx" />
-    <Content Include="BootStrap\bootstrap.js" />
-    <Content Include="BootStrap\bootstrap.min.js" />
+    <Content Include="Content\bootstrap.js" />
+    <Content Include="Content\bootstrap.min.js" />
     <Content Include="BootStrap\dbo.Table.sql" />
     <Content Include="BootStrap\dbo.Table_1.sql" />
+    <Content Include="BootStrap\bootstrap-theme.css.map" />
+    <Content Include="BootStrap\bootstrap-theme.min.css.map" />
+    <Content Include="BootStrap\bootstrap.css.map" />
+    <Content Include="BootStrap\bootstrap.min.css.map" />
     <None Include="BootStrap\jquery-1.9.1.intellisense.js" />
     <Content Include="BootStrap\jquery-1.9.1.js" />
-    <Content Include="BootStrap\jquery-1.9.1.min.js" />
+    <Content Include="Content\jquery-1.9.1.min.js" />
     <Content Include="BootStrap\SQLQueries.sql" />
     <Content Include="site.css" />
     <Content Include="BootStrap\jquery-1.9.1.min.map" />

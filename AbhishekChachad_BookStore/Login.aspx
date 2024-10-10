@@ -9,11 +9,11 @@
         <div class="container mt-4" style="height: 72vh">
             <h2>Login</h2>
             <div class="form-group">
-                <label for="txtFirstName">First Name:</label>
+                <label>First Name:</label>
                 <asp:TextBox ID="txtFirstName" CssClass="form-control" runat="server" placeholder="Enter First Name"></asp:TextBox>
             </div>
             <div class="form-group">
-                <label for="txtLastName">Last Name:</label>
+                <label>Last Name:</label>
                 <asp:TextBox ID="txtLastName" CssClass="form-control" runat="server" placeholder="Enter Last Name"></asp:TextBox>
             </div>
             <div class="text-center">
